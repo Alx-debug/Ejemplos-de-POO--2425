@@ -1,2 +1,11 @@
-# Ejemplos-de-POO--2425
-Este espacio está diseñado para ser un recurso valioso tanto para principiantes como para programadores experimentados. Aquí encontrarás una colección cuidadosamente seleccionada de ejemplos de código en diversos lenguajes de programación, abarcando desde conceptos básicos hasta técnicas más avanzadas.
+# Agenda Personal
+
+Una aplicación de agenda personal desarrollada en Python con Tkinter.
+
+## Requisitos
+- Python 3.8+
+- tkcalendar
+
+## Instalación
+```bash
+pip install -r requirements.txt
